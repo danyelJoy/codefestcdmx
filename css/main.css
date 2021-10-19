@@ -204,11 +204,13 @@ H1.nombre-sitio span{
 }
 /*HEADER*/
 div.hero{
-  background-image: url(../img/pexels-bhargava-marripati-3551805.jpg);
+  background-image: url(../img/ivon-gorgonio-3720115.jpg);
   height: 100vh;
   background-position: top center;
   background-size: cover;
+
 }
+
 div.contenido-header {
   padding-top: 1rem ;
 }
@@ -286,7 +288,7 @@ p.slogan span{
 /*Barra*/
 div.barra {
   background-color: #353535;
-  padding: 2rem 0;
+  padding: 1.5rem 0;
 }
 .fixed {
   position: fixed;

@@ -209,7 +209,7 @@
    <div class="newsletter  parallax">
      <div class="contenido contenedor">
        <p>regístrate al newsletter:</p>
-       <h3>cdmxwebcam</h3>
+       <h3>codefestcdmx</h3>
        <a href="#" class="button transparente">Registro</a>
      </div>
    </div><!--newsleeter-->

@@ -1,7 +1,7 @@
 <footer class="site-footer">
       <div class="contenedor clearfix">
           <div class="footer-informacion">
-              <h3>Sobre <span>cdmxwebcamp</span></h3>
+              <h3>Sobre <span>codefestcdmx</span></h3>
               <p>Praesent rutrum efficitur pharetra. Vivamus scelerisque pretium velit, id tempor turpis pulvinar et. Ut bibendum finibus massa non molestie. Curabitur urna metus, placerat gravida lacus ut, lacinia congue orci. Maecenas luctus mi at ex
                   blandit vehicula. Morbi porttitor tempus euismod.</p>
           </div>

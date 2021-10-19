@@ -55,7 +55,7 @@
               <p class="fecha"><i class="far fa-calendar-alt"></i>11-12 Dic</p>
               <p class="ciudad"><i class="fas fa-map-marker-alt"></i>CDMX, México</p>
             </div>            
-            <h1 class="nombre-sitio">CdmxWebCam</h1>
+            <h1 class="nombre-sitio">codefestcdmx</h1>
             <P class="slogan">La mejor conferencia de <span>desarrollo y TI</span></P>
           </div> <!--Información evento--> 
         </div>   
